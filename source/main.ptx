@@ -8,7 +8,7 @@
   <book>
     <title>Molecular Biology </title>
 
-    <subtitle>BIOL 262 Fall '26 </subtitle>
+    <subtitle>BIOL 262 Fall 2026 </subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
