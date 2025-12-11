@@ -5,7 +5,7 @@
 
   <introduction>
     <p>
-      Welcome to what promises to be an exciting and fun semester of ...
+      Welcome to Molecular Biology! We will spend this semester learning how biology works at the molecular level, with large focus on how molecular machines work.
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -13,15 +13,14 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
-      It is a x credit course.
+      This is the syllabus for <term>BIOL 262 Molecular Biology </term> for Fall 2026.
       <dl>
       <li>
         <title>Instructor</title>
 
         <p>
-          Prof.
-          Lastname, Office Location, <url href="mailto:prof.lastname@example.edu">prof.lastname@example.edu</url>.
+          Dr.
+          Rachel Avard, Hemenway Annex 614, <url href="mailto:prof.lastname@example.edu">ravard@framingham.edu</url>.
         </p>
       </li>
 
